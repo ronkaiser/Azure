@@ -1,5 +1,3 @@
-
-
 # Create virtual machine with all parameters
 new-azvm
   -ResourceGroupName 'RESOURCE_GROUP_NAME' `
