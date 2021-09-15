@@ -1,4 +1,4 @@
-# Create virtual machine with all parameters
+# Create virtual machine
 new-azvm
   -ResourceGroupName 'RESOURCE_GROUP_NAME' `
   -Name 'TestVM' `
